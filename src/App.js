@@ -23,6 +23,12 @@ function App() {
         <span>
           nishi hsuiya 
         </span>
+        <div>
+          新增加的哦电脑关系
+        </div>
+        <div>
+          在feature/gq/0.0.1新增的东西
+        </div>
       </header>
     </div>
   );
