@@ -17,6 +17,12 @@ function App() {
         >
           Learn React
         </a>
+        <div>
+          大家好。
+        </div>
+        <span>
+          nishi hsuiya 
+        </span>
       </header>
     </div>
   );
